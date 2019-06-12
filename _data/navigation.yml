@@ -1,0 +1,20 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Outreach"
+    url: /outreach/
+
+  - title: "Workshops"
+    url: /workshops/ 
+   
+  #- title: "CV"
+    #url: /cv/
+    
