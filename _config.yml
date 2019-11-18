@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+#Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -83,8 +83,8 @@ author:
   name             : "Pooja Rao"
   avatar           : "profile.png"
   bio              : "Postdoctoral Researcher"
+  employer         : "Dept. of Mathematics, SBU"
   location         : "Stony Brook, NY"
-  employer         : "Dept. of Mathematics, Stony Brook University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "Pooja.Rao AT stonybrook.edu"
