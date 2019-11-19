@@ -1,5 +1,5 @@
 ---
-title: "Webinar Organizer at Sustainable Horizons Institute"
+title: "3. Webinar Organizer at Sustainable Horizons Institute"
 collection: outreach
 type: "Outreach"
 permalink: /outreach/03_shi

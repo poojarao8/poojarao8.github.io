@@ -1,5 +1,5 @@
 ---
-title: "Instructor at STEM Mentoring Initiative at SBU"
+title: "2. Instructor at STEM Mentoring Initiative at SBU"
 collection: outreach
 type: "Outreach"
 permalink: /outreach/02_stem

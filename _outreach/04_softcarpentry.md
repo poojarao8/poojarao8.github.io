@@ -1,5 +1,5 @@
 ---
-title: "Software Carpentry Instructor"
+title: "4. Software Carpentry Instructor"
 collection: outreach
 type: "Outreach"
 permalink: /outreach/04_sc
