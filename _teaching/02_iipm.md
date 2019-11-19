@@ -1,5 +1,5 @@
 ---
-title: "Instructor"
+title: "2. Instructor"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/02_iipm

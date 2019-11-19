@@ -1,5 +1,5 @@
 ---
-title: "Content Creator"
+title: "1. Content Creator"
 collection: teaching
 type: "K-12 Education"
 permalink: /teaching/01_v2learn

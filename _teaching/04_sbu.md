@@ -1,5 +1,5 @@
 ---
-title: "Lecturer"
+title: "4. Lecturer"
 collection: teaching
 type: "Graduate Seminar Course: MAT696"
 permalink: /teaching/04_sbu
