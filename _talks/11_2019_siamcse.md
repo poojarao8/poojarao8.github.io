@@ -1,5 +1,5 @@
 ---
-title: "Numerical study of impact of interparticle interactions on particle dynamics in lab generated spark discharge"
+title: "11. Numerical study of impact of interparticle interactions on particle dynamics in lab generated spark discharge"
 collection: talks
 type: "Poster"
 permalink: /talks/11_2019_siam
