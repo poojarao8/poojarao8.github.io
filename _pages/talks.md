@@ -1,9 +1,8 @@
 ---
-title: "Talks and Posters"
+title: "Presentations and posters"
 permalink: /talks/
 author_profile: true
 ---
-# Presentations and poster
 
 14. H. Lim, K. Yu, **P. Rao** and D. Jin, *Quantum amplitude estimation algorithms on IBM quantum devices*, Quantum Communications and Quantum Imaging XVIII, San Diego, CA (Aug 2020).
 
