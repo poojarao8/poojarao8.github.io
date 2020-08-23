@@ -1,19 +1,19 @@
 # main links links
-#main:
+main:
   #- title: "Publications"
-    url: /publications/
+    #url: /publications/
 
-  #- title: "Talks"
+  - title: "Talks"
     url: /talks/    
 
   #- title: "Teaching"
-    url: /teaching/    
+    #url: /teaching/    
     
   #- title: "Outreach"
-    url: /outreach/
+    #url: /outreach/
 
   #- title: "Workshops"
-    url: /workshops/ 
+    #url: /workshops/ 
    
   #- title: "CV"
     #url: /cv/
