@@ -12,8 +12,8 @@ main:
   #- title: "Outreach"
     #url: /outreach/
 
-  #- title: "Workshops"
-    #url: /workshops/ 
+  - title: "Workshops"
+    url: /workshops/ 
    
   #- title: "CV"
     #url: /cv/

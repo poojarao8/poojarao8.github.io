@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-14. H. Lim, K. Yu, **P. Rao** and D. Jin, *Quantum amplitude estimation algorithms on IBM quantum devices*, Quantum Communications and Quantum Imaging XVIII, San Diego, CA (Aug 2020).
+14. **P. Rao**, K. Yu, H. Lim, D. Jin and D. Choi, *Quantum amplitude estimation algorithms on IBM quantum devices*, Quantum Communications and Quantum Imaging XVIII, San Diego, CA (Aug 2020).
 
 13. H. Lim, K. Yu, **P. Rao** and D. Jin, *Amplitude estimation implementations on NISQ devices*, OSA Quantum 2.0, Reston, VA (June 2020).
 
