@@ -5,7 +5,7 @@ author_profile: true
 ---
 # Conducted
 
-4. [*IACS Computes!* : Python programming summer camp for high Schoolers (Instructor)](https://calendar.stonybrook.edu/site/iacs/event/iacs-computes-1/), Institute for Advanced Computational Science, Stony Brook University, Stony Brook, NY, July 20- July 31, 2020. [Github page](https://github.com/poojarao8/IACS_computes_2020)for the course content.
+4. [*IACS Computes!*](https://calendar.stonybrook.edu/site/iacs/event/iacs-computes-1/) : Python programming summer camp for high Schoolers (Instructor), Institute for Advanced Computational Science, Stony Brook University, Stony Brook, NY, July 20- July 31, 2020. [Github page](https://github.com/poojarao8/IACS_computes_2020) for the course content.
 
 3. [*A Practical Introduction to Debugging* (Co-organizer)](https://github.com/poojarao8/IACS_DebugWorkshop), Stony Brook University, Stony Brook, NY, April 13, 2019.
 
