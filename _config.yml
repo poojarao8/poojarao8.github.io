@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Pooja Rao"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher"
+  bio              : #"Postdoctoral Researcher"
   employer         : "Dept. of Mathematics, SBU"
   location         : "Stony Brook, NY"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=a5GDS08AAAAJ"
-  email            : "Pooja.Rao AT stonybrook.edu"
+  email            : "prao AT ams.stonybrook.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
