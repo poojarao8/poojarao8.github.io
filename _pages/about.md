@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a [postdoctoral researcher](http://www.math.stonybrook.edu/cards/raopooja.html) in the Department of Mathematics at Stony Brook University. My mentor is [Dr. Dennis Sullivan](http://www.math.stonybrook.edu/~dennis/). Prior to my current position, I was a postdoctoral researcher in the Department of Aerospace Engineering at University of Illinois at Urbana-Champaign.
+I had been working as a [postdoctoral researcher](http://www.math.stonybrook.edu/cards/raopooja.html) in the Department of Mathematics at Stony Brook University. Prior to this, I was a postdoctoral researcher in the Department of Aerospace Engineering at University of Illinois at Urbana-Champaign.
 
 My general area of interest is fluid dynamics and scientific computing. I am interested in studying gas/gas and gas/particle multiphase flows influenced by shock, using high fidelity numerical algorithms. I am also interested in studying coupled heat transfer in porous geometries. For my Ph. D. work in the Department of Applied Mathematics and Statistics at Stony Brook, I studied turbulent mixing in hydrodynamical instabilties such as Richtmyer-Meshkov and Rayleigh-Taylor, using front-tracking method. 
 
@@ -18,8 +18,7 @@ I am working on the development of an efficient, parallel implementation of Denn
 
 More recently, I have been studying Monte Carlo integration using quantum computing on today's noisy quantum devices. The field of quantum computing, although still in its nascent phase, has seen some significant progress since its inception in the 1980s. However, quantum noise is still a major obstacle for today’s quantum machines, often referred to as the Noisy Intermediate-Scale Quantum (NISQ) devices. Thus, it is important to design quantum computing algorithms that work around the limitations of the current NISQ devices. One of the most notable algorithms with several applications is the Quantum Amplitude Estimation (QAE) algorithm, but it is prohibitively expensive for NISQ devices. One important application of quantum amplitude estimation is computing integrals using Monte Carlo integration (MCI). 
 
-With MCI as the focus of our study, we are interested in practical algorithms, such as
-the recently proposed quantum-classical variants of QAE algorithm, namely the maximum likelihood estimation and the iterative amplitude estimation. By implementing them on the IBM Quantum machine using Qiskit, an open source framework for quantum computing, we have analyzed and discussed the implementation and performance of each algorithm from a practical perspective. Currently, we are adopting the quantum partial search algorithm, which has been optimized for depth, for the integration problem.
+With MCI as the focus of our study, we are interested in practical algorithms, such as the recently proposed quantum-classical variants of QAE algorithm, namely the maximum likelihood estimation and the iterative amplitude estimation. By implementing them on the IBM Quantum machine using Qiskit, an open source framework for quantum computing, we have analyzed and discussed the implementation and performance of each algorithm from a practical perspective. 
 
 ---
 
