@@ -3,7 +3,9 @@ title: "Presentations and posters"
 permalink: /talks/
 author_profile: true
 ---
-14. **P. Rao**, *Hybrid quantum-classical methods for amplitude estimation for near term quantum devices*, Math Colloquium at Florida State University, Tallahassee, FL (Oct 2020).
+16. **P. Rao** and T. Drivas, *Modeling mixing in interfacial instabilities*, Einstein Chair Mathematics Seminar at CUNY Graduate Center, New York, NY (Dec 2020).
+
+15. **P. Rao**, *Hybrid quantum-classical methods for amplitude estimation for near term quantum devices*, Math Colloquium at Florida State University, Tallahassee, FL (Oct 2020).
 
 14. **P. Rao**, K. Yu, H. Lim, D. Jin and D. Choi, *Quantum amplitude estimation algorithms on IBM quantum devices*, Quantum Communications and Quantum Imaging XVIII, San Diego, CA (Aug 2020).
 
