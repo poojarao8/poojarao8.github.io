@@ -1,9 +1,19 @@
 ---
-title: "Presentations and posters"
+title: "Talks and posters"
 permalink: /talks/
 author_profile: true
 ---
-16. **P. Rao** and T. Drivas, *Modeling mixing in interfacial instabilities*, Einstein Chair Mathematics Seminar at CUNY Graduate Center, New York, NY (Dec 2020).
+21. UC Berkeley Math Circle, Berkeley, CA (April 14 and 21, 2020).
+
+20. CUNY Hunter College Colloquim, New York, NY (April 15, 2020).
+
+19. Harmonic Analysis and PDEs Seminar at CUNY Graduate Center, New York, NY (March 19, 2020).
+
+18. Fluid Dynamics Five Minute Talks, Mathematical Sciences Research Institute (MSRI), NY (Feb 5, 2020).
+
+17. **P. Rao**, *Modeling mixing in interfacial instabilities - II*, Einstein Chair Mathematics Seminar at CUNY Graduate Center, New York, NY (Jan 11, 2020).
+
+16. **P. Rao** and T. Drivas, *Modeling mixing in interfacial instabilities - I*, Einstein Chair Mathematics Seminar at CUNY Graduate Center, New York, NY (Dec 7, 2020).
 
 15. **P. Rao**, *Hybrid quantum-classical methods for amplitude estimation for near term quantum devices*, Math Colloquium at Florida State University, Tallahassee, FL (Oct 2020).
 

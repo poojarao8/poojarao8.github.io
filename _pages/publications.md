@@ -3,8 +3,10 @@ title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
 ---
+14. K. Zhang, **P. Rao**, K. Yu, H. Lim and V. Korepin, [*Hybrid classical-quantum algorithms for unstructured database search on IBM quantum processors*], manuscript in preparation (Feb 2020).
 
-13. **P. Rao**, K. Yu, H. Lim, D. Jin and D. Choi,[*Quantum amplitude estimation algorithms on IBM quantum devices*](https://arxiv.org/abs/2008.02102), arXiv:2008.02102 (Aug 2020).
+
+13. **P. Rao**, K. Yu, H. Lim, D. Jin and D. Choi, [*Quantum amplitude estimation algorithms on IBM quantum devices*](https://arxiv.org/abs/2008.02102), arXiv:2008.02102 (Aug 2020).
 
 12. K. Yu, H. Lim, **P. Rao** and D. Jin, [*Comparison of amplitude estimation algorithms by implementation*](https://arxiv.org/abs/2005.05300), arXiv:2005.05300 (May 2020).
 
