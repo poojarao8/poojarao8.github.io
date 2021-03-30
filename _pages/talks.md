@@ -9,11 +9,11 @@ author_profile: true
 
 12. CUNY Hunter College Colloquium, New York, NY (Apr 15, 2021).
 
-11. Computational Science Initiative Quantum (CSI Q) Seminar, Brookhaven National Lab, Upton, NY (Apr 7, 2021). 
+11. **P. Rao**, *Implementation of practical quantum algorithms for unstructured search*, \href{https://www.bnl.gov/compsci/quantum/qseminars.php}{Computational Science Initiative Quantum (CSI Q) Seminar}, Brookhaven National Lab, Upton, NY (Apr 7, 2021). 
 
 10. Applied Fluids Seminar, Mathematical Sciences Research Institute (MSRI), Berkeley, CA (Apr 2, 2021).
 
-9. Harmonic Analysis and PDEs Seminar at CUNY Graduate Center, New York, NY (Mar 19, 2021).
+9. **P. Rao**, *Modeling mixing accurately in numerical simulations of interfacial instabilities*, Harmonic Analysis and PDEs Seminar at CUNY Graduate Center, New York, NY (Mar 19, 2021).
 
 8. Fluid Dynamics 5-minute Talks, Mathematical Sciences Research Institute (MSRI), Berkeley, CA (Feb 5, 2021).
 
