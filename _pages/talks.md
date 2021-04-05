@@ -9,8 +9,6 @@ author_profile: true
 
 12. CUNY Hunter College Colloquium, New York, NY (Apr 15, 2021).
 
-[*Hybrid classical-quantum algorithms for unstructured database search on IBM quantum processors*](https://arxiv.org/abs/2102.01783)
-
 11. **P. Rao**, *Implementation of practical quantum algorithms for unstructured search*, [Computational Science Initiative Quantum (CSI Q) Seminar](https://www.bnl.gov/compsci/quantum/qseminars.php), Brookhaven National Lab, Upton, NY (Apr 7, 2021). 
 
 10. Applied Fluids Seminar, Mathematical Sciences Research Institute (MSRI), Berkeley, CA (Apr 2, 2021).
