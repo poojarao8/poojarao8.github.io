@@ -6,11 +6,12 @@ author_profile: true
 
 <b> Invited </b>
 
-12. CUNY Hunter College Colloquium, New York, NY (Apr 15, 2021).
+12. **P. Rao**, *A novel strategy for unstructured search on IBM quantum
+processors*, CUNY Hunter College Colloquium, New York, NY (Apr 15, 2021).
 
 11. **P. Rao**, *Implementation of practical quantum algorithms for unstructured search*, [Computational Science Initiative Quantum (CSI Q) Seminar](https://www.bnl.gov/compsci/quantum/qseminars.php), Brookhaven National Lab, Upton, NY (Apr 7, 2021). 
 
-10. Applied Fluids Seminar, Mathematical Sciences Research Institute (MSRI), Berkeley, CA (Apr 2, 2021).
+10. **P. Rao**, *Developing robust numerical algorithms and techniques for fluid mixing*, Applied Fluids Seminar, Mathematical Sciences Research Institute (MSRI), Berkeley, CA (Apr 2, 2021).
 
 9. **P. Rao**, *Modeling mixing accurately in numerical simulations of interfacial instabilities*, Harmonic Analysis and PDEs Seminar at CUNY Graduate Center, New York, NY (Mar 19, 2021).
 
