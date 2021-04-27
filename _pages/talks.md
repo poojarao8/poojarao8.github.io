@@ -33,7 +33,7 @@ author_profile: true
 <b> Outreach </b>
 2. UC Berkeley Math Circle, Berkeley, CA (Apr 14 and 21, 2021).
 
-1. **P. Rao**, *Normal distribution*, UCLA Math Circle, Los Angeles, CA (Nov 23, 20114
+1. **P. Rao**, *Normal distribution*, UCLA Math Circle, Los Angeles, CA (Nov 23, 2014)
 
 
 <b>Conference</b>
