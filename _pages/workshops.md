@@ -16,18 +16,14 @@ author_profile: true
 ---
 # Attended
 
-7. *Argonne Training Program on Extreme-Scale Computing*, Argonne National Lab, Lemont, IL, Aug 2-14, 2015.
+4. *Argonne Training Program on Extreme-Scale Computing*, Argonne National Lab, Lemont, IL, Aug 2-14, 2015.
 
-6. *OpenMP and Vectorization Training*, National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley National Lab, Berkeley, CA, Oct 28, 2014.
+3. *OpenMP Workshop*, Institute for Advanced Computational Science, Stony Brook, New York, Aug 21, 2014.
 
-5. *OpenMP Workshop*, Institute for Advanced Computational Science, Stony Brook, New York, Aug 21, 2014.
+2. *Software-Development Summer School for Computational Chemistry and Materials Modeling (SICM 2)*, Stony Brook, NY, Jul 8-18, 2014.
 
-4. *Software-Development Summer School for Computational Chemistry and Materials Modeling (SICM 2)*, Stony Brook, NY, Jul 8-18, 2014.
+1. *OpenMP/MPI Workshop*, Institute for Advanced Computational Science, Stony Brook, NY, Jan 23-24, 2014.
 
-3. *OpenMP/MPI Workshop*, Institute for Advanced Computational Science, Stony Brook, NY, Jan 23-24, 2014.
 
-2. *GPGPU Workshop*, Institute for Advanced Computational Science, Stony Brook, NY, Aug 23, 2013.
-
-1. *High Performance Computing Workshop*, New York Center for Computational Science (Brookhaven National Lab), Stony Brook University, Aug 23-24, 2012.
 
 ---

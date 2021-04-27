@@ -3,9 +3,8 @@ title: "Talks and posters"
 permalink: /talks/
 author_profile: true
 ---
-<b> Invited and Outreach Talks </b>
 
-13. UC Berkeley Math Circle, Berkeley, CA (Apr 14 and 21, 2021).
+<b> Invited </b>
 
 12. CUNY Hunter College Colloquium, New York, NY (Apr 15, 2021).
 
@@ -27,12 +26,17 @@ author_profile: true
 
 3. **P. Rao**, C. Caulfield and J.D. Gibbon, *Non-linear depletion in homogeneous buoyancy driven turbulence*, Culminating workshop, Mathematics of Turbulence, Lake Arrowhead, CA (Dec 2014).
 
-2. **P. Rao**, *Normal distribution*, UCLA Math Circle, Los Angeles, CA (Nov 23, 20114 
 
 1. **P. Rao** and J. Glimm, *Turbulent mixing in Richtmyer-Meshkov instability in an ICF like geometry*, Mathematics of Turbulence, Institute of Pure and Applied Math, UCLA (Oct 2014).
 
 
-<b>Conference Talks and Posters</b>
+<b> Outreach </b>
+2. UC Berkeley Math Circle, Berkeley, CA (Apr 14 and 21, 2021).
+
+1. **P. Rao**, *Normal distribution*, UCLA Math Circle, Los Angeles, CA (Nov 23, 20114
+
+
+<b>Conference</b>
 
 
 11. **P. Rao**, K. Yu, H. Lim, D. Jin and D. Choi, *Quantum amplitude estimation algorithms on IBM quantum devices*, Quantum Communications and Quantum Imaging XVIII, San Diego, CA (Aug 2020).
